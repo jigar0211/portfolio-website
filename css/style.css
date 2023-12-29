@@ -9672,3 +9672,30 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+.react-bar{
+  background-color: #61dbfb;
+}
+.javascript-bar{
+  background-color: #F0DB4F;
+}
+.typescript-bar{
+  background-color: #007acc;
+}
+.jquery-bar{
+  background-color: #0868AC;
+}
+.html-bar{
+  background-color: #e34c26;
+}
+.bootstrap-bar{
+  background-color: #563d7c;
+}
+.php-bar{
+  background-color: #AEB2D5;
+}
+.android-bar{
+  background-color: #3DDC84;
+}
+.codegnitor-bar{
+  background-color: #dd4814;
+}
